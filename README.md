@@ -1,4 +1,4 @@
-# eBPF Labs
+# eBPF Lab
 
 > A hands-on lab environment for learning and experimenting with **eBPF** across different programming languages.
 
